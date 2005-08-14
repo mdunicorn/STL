@@ -1,0 +1,32 @@
+
+[OPTIONS]
+Auto Index=Yes
+Binary TOC=No
+Binary Index=Yes
+Compatibility=1.1
+Compiled File=STL.chm
+Contents File=STL.hhc
+Default Topic=STL.htm
+Error log file=ErrorLog.log
+Index File=STL.hhk
+Title=C++ Standard Template Library
+Display compile progress=Yes
+Full-text search=Yes
+Default Window=main
+Default Font=Tahoma, 8
+Language=0x409 English (United States)
+Create CHI file=No
+
+[WINDOWS]
+main="C++ Standard Template Library","STL.hhc","STL.hhk","STL.htm","STL.htm",,,,,0x33520,195,0x60104E,[100,100,845,655],0xB0000,,,,,,0
+
+[FILES]
+STL.htm
+STL_files\image001.gif
+STL_files\image002.gif
+STL_files\image003.gif
+STL_files\image004.gif
+STL_files\image005.gif
+STL_files\image006.jpg
+
+[MERGE FILES]

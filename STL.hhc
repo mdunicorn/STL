@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+   <OBJECT type="text/site properties">
+     <param name="Window Styles" value="0x800025">
+     <param name="Font" value="Tahoma,8,0">
+     <param name="comment" value="title:Online Help">
+     <param name="comment" value="base:index.htm">
+   </OBJECT>
+   <UL>
+      <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="STL">
+            <param name="Local" value="STL.htm">
+            <param name="ImageNumber" value="1">
+          </OBJECT>
+      <UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="Iostreams">
+               <param name="Local" value="STL.htm#iostream">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="Generic Containers">
+               <param name="Local" value="STL.htm#containers">
+               <param name="ImageNumber" value="1">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Iterators">
+                  <param name="Local" value="STL.htm#iterators">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="vector">
+                  <param name="Local" value="STL.htm#vector">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="list">
+                  <param name="Local" value="STL.htm#list">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="deque">
+                  <param name="Local" value="STL.htm#deque">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Container Adaptors">
+                  <param name="Local" value="STL.htm#adaptors">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="Strings">
+               <param name="Local" value="STL.htm#strings">
+             </OBJECT>
+      </UL>
+   </UL>
+</BODY>
+</HTML>

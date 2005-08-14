@@ -1,0 +1,243 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+<OBJECT type="text/site properties">
+	<param name="FrameName" value="right">
+	<param name="Font" value="Tahoma,8,0">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="append">
+		<param name="Local" value="STL.htm#string_append">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="assign">
+		<param name="Local" value="STL.htm#vector_assign">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="back">
+		<param name="Local" value="STL.htm#vector_back">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="begin">
+		<param name="Local" value="STL.htm#vector_begin">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="capacity">
+		<param name="Local" value="STL.htm#vector_capacity">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="clear">
+		<param name="Local" value="STL.htm#vector_clear">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="clear (iostream)">
+		<param name="Local" value="STL.htm#clear">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Container Adaptors">
+		<param name="Local" value="STL.htm#adaptors">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Containers">
+		<param name="Local" value="STL.htm#containers">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="c_str">
+		<param name="Local" value="STL.htm#c_str">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="deque">
+		<param name="Local" value="STL.htm#deque">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="empty">
+		<param name="Local" value="STL.htm#vector_empty">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="end">
+		<param name="Local" value="STL.htm#vector_end">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="eof">
+		<param name="Local" value="STL.htm#fail">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="erase (string)">
+		<param name="Local" value="STL.htm#string_erase">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="erase (vector)">
+		<param name="Local" value="STL.htm#vector_erase">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="fail">
+		<param name="Local" value="STL.htm#fail">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="flush">
+		<param name="Local" value="STL.htm#flush">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="front">
+		<param name="Local" value="STL.htm#vector_front">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Generic Containers">
+		<param name="Local" value="STL.htm#containers">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="get">
+		<param name="Local" value="STL.htm#istream_get">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getline">
+		<param name="Local" value="STL.htm#istream_getline">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ignore">
+		<param name="Local" value="STL.htm#ignore">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="insert (list)">
+		<param name="Local" value="STL.htm#list_insert">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="insert (string)">
+		<param name="Local" value="STL.htm#string_insert">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="insert (vector)">
+		<param name="Local" value="STL.htm#vector_insert">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Iostreams">
+		<param name="Local" value="STL.htm#iostream">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Iterators">
+		<param name="Local" value="STL.htm#iterators">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Iterators">
+		<param name="Local" value="STL.htm#iterators">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="length">
+		<param name="Local" value="STL.htm#string_length">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="list">
+		<param name="Local" value="STL.htm#list">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="open">
+		<param name="Local" value="STL.htm#fstream_open">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="operator[]">
+		<param name="Local" value="STL.htm#vector_index">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="peek">
+		<param name="Local" value="STL.htm#peek">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="pop_back">
+		<param name="Local" value="STL.htm#vector_pop_back">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="pop_front">
+		<param name="Local" value="STL.htm#list_pop_front">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="push_back">
+		<param name="Local" value="STL.htm#vector_push_back">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="push_front">
+		<param name="Local" value="STL.htm#list_push_front">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="put">
+		<param name="Local" value="STL.htm#put">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="putback">
+		<param name="Local" value="STL.htm#putback">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="rbegin">
+		<param name="Local" value="STL.htm#vector_rbegin">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="read">
+		<param name="Local" value="STL.htm#read">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="References">
+		<param name="Local" value="STL.htm#reference">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="remove">
+		<param name="Local" value="STL.htm#list_remove">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="rend">
+		<param name="Local" value="STL.htm#vector_rend">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="reserve">
+		<param name="Local" value="STL.htm#vector_reserve">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="resize">
+		<param name="Local" value="STL.htm#vector_resize">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="reverse">
+		<param name="Local" value="STL.htm#list_reverse">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="seekg">
+		<param name="Local" value="STL.htm#seekg">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="size">
+		<param name="Local" value="STL.htm#vector_size">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="sort">
+		<param name="Local" value="STL.htm#list_sort">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="STL">
+		<param name="Local" value="STL.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Strings">
+		<param name="Local" value="STL.htm#strings">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="substr">
+		<param name="Local" value="STL.htm#substr">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="unget">
+		<param name="Local" value="STL.htm#unget">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="vector">
+		<param name="Local" value="STL.htm#vector">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="write">
+		<param name="Local" value="STL.htm#write">
+		</OBJECT>
+</UL>
+</BODY>
+</HTML>
